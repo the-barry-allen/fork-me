@@ -1,1 +1,1 @@
-Hi <insert-name-here>, welcome to hackerschool!
+Hi Simantak, welcome to hackerschool!
